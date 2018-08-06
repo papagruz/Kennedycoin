@@ -1,0 +1,9 @@
+Building Kennedycoin
+
+See doc/readme-qt.rst for instructions on building Kennedycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kennedycoin.
+
+See doc/build-*.txt for instructions on building Kennedycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kennedycoin.
